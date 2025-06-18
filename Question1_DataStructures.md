@@ -33,7 +33,7 @@ Write a **pseudocode solution** to report the **sum of all `Bond_Value`**, for a
 1. The `Bond_Ratings` appears in **more than one** portfolio.
 2. The combination of (`No_of_holdings`, `No_UnqSec`) is **unique**, i.e., no other portfolio has the same pair.
 
-> ℹ️ Note: Round each `Bond_Value` to **two decimal places** before summing.
+> Note: Round each `Bond_Value` to **two decimal places** before summing.
 
 ---
 
@@ -60,4 +60,4 @@ Return a **single float** value, representing the **sum** of all qualifying `Bon
 4.5
 ```
 
-> ✅ Portfolios 1 and 4 meet both criteria, so the result is 0.5 + 4.0 = **4.5**.
+> Portfolios 1 and 4 meet both criteria, so the result is 0.5 + 4.0 = **4.5**.
