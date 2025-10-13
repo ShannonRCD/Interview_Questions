@@ -20,5 +20,6 @@ This repository contains **two technical interview questions**:
 - Please review both questions before making your choice.
 - Be clear and concise in your solution.
 - If you have supporting assumptions or considerations, feel free to include them as comments or notes.
+- You may submit your solutions in advanced to shannon.siow@firstplus.com
 
 Good luck!
