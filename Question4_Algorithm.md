@@ -1,4 +1,4 @@
-# Dynamic Decisions
+## Question 4: Dynamic Decision – 30 Minutes
 
 ## Problem Description
 
