@@ -2,12 +2,14 @@
 
 This repository contains **two technical interview questions**:
 
-1. **Question 1 – Data Structures**
-2. **Question 2 – Algorithm**
+1. **Question 1 – Data Structures (Internship)**
+2. **Question 2 – Algorithm (Internship)**
+3. **Question 3 – Data Structures (Full-time)**
+4. **Question 4 – Algorithm (Full-time)**
 
 ### Important Notes
 
-- Candidates are required to **choose and solve only ONE** of the two questions.
+- Candidates are required to **choose and solve only ONE** of the two questions. Internship candidates are required to choose between question 1 or 2, and full-time candidates can choose between 3 and 4.
 - You may use any language or format to solve the question (e.g., pseudocode, actual code).
 - You may use **any AI tool** to assist you in writing the code or explanation.
 - Be prepared to:
