@@ -10,8 +10,8 @@ This repository contains **two technical interview questions**:
 ### Important Notes
 
 - Candidates are required to **choose and solve only ONE** of the two questions.
-  - Internship candidates: Question 1 or 2,
-  - Full-time candidates: Question 3 or 4
+  - **Internship** candidates: **Question 1 or 2**,
+  - **Full-time** candidates: **Question 3 or 4**
 - You may use any language or format to solve the question (e.g., pseudocode, actual code).
 - You are recommended to use **any AI tool** to assist you in writing the code or explanation.
 - Be prepared to:
