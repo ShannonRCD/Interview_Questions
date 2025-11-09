@@ -1,5 +1,5 @@
 
-## Question 2: Algorithm – 10 Minutes
+## Question 2: Minimum Sum Problem – 10 Minutes
 
 ### Problem Statement
 
