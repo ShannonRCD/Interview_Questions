@@ -1,4 +1,4 @@
-## Question 3: Stock Porfolio – 30 Minutes
+## Question 1: Stock Porfolio – 30 Minutes
 
 ## Problem Description
 
