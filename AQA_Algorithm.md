@@ -1,5 +1,5 @@
 
-## Additional Question 2: Minimum Sum Problem – 10 Minutes
+## Additional Question A: Minimum Sum Problem – 10 Minutes
 
 ### Problem Statement
 
